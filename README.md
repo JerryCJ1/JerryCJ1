@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryCJ1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Pytho and Java
+- 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on probabibly everything
 - 📫 How to reach me via Email @ kemmanueljerry@gmail.com
 - 😄 Pronouns: He/him
